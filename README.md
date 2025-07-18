@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FsYjMxMmptdTl3cTNmYXJrZnRyNHk0bHVwdWV6dnBncTJ5Y2RzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXGxBwXYFcJoJ2/giphy.gif" width="600px" alt="Mr. Robot hacking gif"/>
 </p>
 
-<h1 align="center">👾 b4sh/gustavo</h1>
+<h1 align="center">👾 gustavo</h1>
 
 <p align="center">
   <b>offsec student👨‍💻 | 18 y'old | i like web 🕸</b>
