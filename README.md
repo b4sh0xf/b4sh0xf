@@ -39,3 +39,6 @@ int main() {
 
 }
 ```
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4sh0xf&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
+</p>
