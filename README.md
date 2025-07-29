@@ -5,7 +5,7 @@
 <h1 align="center">👾 gustavo</h1>
 
 <p align="center">
-  <b>offsec student👨‍💻 | 18 y'old | i like web 🕸</b>
+  <b>offsec student 👨‍💻 | 18 y'old</b>
 </p>
 
 <p align="center">
@@ -16,10 +16,9 @@
 
 ## 🐱‍👤 __aboutme()
 
-- like web hacking and some reversing
+- i like to hack web and mobile applications, active directory and some reversing
 - trying to code in javascript, python, c and php
-- computer engineering in UFPE (brazil) 
-- trying to understand how things work actually 🙀
+- computer engineering in UFPE 🇧🇷 
 
 
 
