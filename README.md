@@ -14,9 +14,9 @@
 
 ---
 
-## 🐱‍👤 __aboutme()
+## 🐱‍👤 ```__aboutme()```
 
-- i like to hack web and mobile applications, active directory and some reversing
+- web and mobile hacking, active directory and cook some reversing
 - trying to code in javascript, python, c and php
 - computer engineering in UFPE 🇧🇷 
 
