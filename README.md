@@ -16,8 +16,9 @@
 
 ## 🐱‍👤 ```__aboutme()```
 
-- web and mobile hacking, active directory and cook some reversing
-- trying to code in javascript, python, c and php
+- web, mobile, ad and cloud hacking
+- cook some reversing
+- trying to code in js, python, c and php
 - computer engineering in UFPE 🇧🇷 
 
 
@@ -34,7 +35,7 @@ void pwn() {
 int main() {
 
     char buf[32];
-    printf("> ");
+    printf("[*] a world built in fantasy");
     gets(buf);
 
 }
