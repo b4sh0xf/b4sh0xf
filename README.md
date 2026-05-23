@@ -3,7 +3,7 @@
 <h1 align="center"> gustavo</h1>
 
 <p align="center">
-  <b>offsec analyst 👨‍💻 | 19 y'old</b>
+  <b>offsec raider 🏴‍☠️ | 19 y'old</b>
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@
 - web/api, mobile, ad and cloud exploitation
 - back-end web and mobile developer
 - computer engineering academic @ CIn-UFPE
-
-
+- [my linkedin](https://linkedin.com/in/gustavo-linhares0xf)
+- [my technical blog](https://b4sh0xf.github.io)
 
 ```c
 typedef int (*ptrace_ptr_t)(int _request, pid_t _pid, caddr_t _addr, int _data);
 void killDbg() {
     ptrace_ptr_t ptrace_ptr = (ptrace_ptr_t) dlsym(RTLD_SELF, "ptrace");
-    ptrace_ptr(31, 0, 0, 0); // PTRACE_DENY_ATTACH = 31
+    ptrace_ptr(31, 0, 0, 0); // deny attach
 }
 ```
