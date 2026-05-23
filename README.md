@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FsYjMxMmptdTl3cTNmYXJrZnRyNHk0bHVwdWV6dnBncTJ5Y2RzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXGxBwXYFcJoJ2/giphy.gif" width="600px" alt="Mr. Robot hacking gif"/>
-</p>
 
-<h1 align="center">👾 gustavo</h1>
+<h1 align="center"> gustavo</h1>
 
 <p align="center">
-  <b>offsec student 👨‍💻 | 18 y'old</b>
+  <b>offsec analyst 👨‍💻 | 19 y'old</b>
 </p>
 
 <p align="center">
@@ -16,27 +14,16 @@
 
 ## 🐱‍👤 ```__aboutme()```
 
-- web, mobile, ad and cloud hacking
-- cook some reversing
-- trying to code in js, python, c and php
-- computer engineering in UFPE 🇧🇷 
+- web/api, mobile, ad and cloud exploitation
+- back-end web and mobile developer
+- computer engineering academic @ CIn-UFPE
 
 
 
 ```c
-#include <stdio.h>
-
-void pwn() {
-
-    printf("i live for this sh!t");
-
-}
-
-int main() {
-
-    char buf[32];
-    printf("[*] a world built in fantasy");
-    gets(buf);
-
+typedef int (*ptrace_ptr_t)(int _request, pid_t _pid, caddr_t _addr, int _data);
+void killDbg() {
+    ptrace_ptr_t ptrace_ptr = (ptrace_ptr_t) dlsym(RTLD_SELF, "ptrace");
+    ptrace_ptr(31, 0, 0, 0); // PTRACE_DENY_ATTACH = 31
 }
 ```
