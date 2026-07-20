@@ -15,7 +15,7 @@
 ## 🐱‍👤 ```__aboutme()```
 
 - web/api, mobile, ad and cloud exploitation
-- back-end web and mobile developer
+- back-end web/mobile developer
 - computer engineering academic @ CIn-UFPE
 - [my linkedin](https://linkedin.com/in/gustavo-linhares0xf)
 - [my technical blog](https://b4sh0xf.github.io)
